@@ -1,0 +1,8 @@
+Cronograma de atividades para minicurso de R - LEQ
+
+- Segunda-feira: Fundamentos da linguagem R.
+- Terça-feira: Importando e analisando dados no R.
+- Quarta-feira: Explorando um pouco o uso e a interpretação de gráficos.
+- Quinta-feira: Explorando um pouco o uso e a interpretação de testes estatísticos.
+
+[Extra] Sexta-feira: Mapas no R!
